@@ -1,6 +1,6 @@
 {
   "name": "express-logger",
-  "description": "Express logger - Ready to be used Out-Of-The-Box",
+  "description": "Express logger middleware- Ready to be used Out-Of-The-Box",
   "version": "1.0.0",
   "author": "Tomás Hernández <tomas.hernandez03@gmail.com>",
   "license": "MIT",
