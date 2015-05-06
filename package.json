@@ -1,0 +1,32 @@
+{
+  "name": "express-logger",
+  "description": "Express logger - Ready to be used Out-Of-The-Box",
+  "version": "1.0.0",
+  "author": "Tomás Hernández <tomas.hernandez03@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/THernandez03/express-logger.git"
+  },
+  "dependencies": {
+    "express-winston": "^0.3.0",
+    "node.extend": "^1.1.3",
+    "winston": "^1.0.0"
+  },
+  "keywords": [
+    "express",
+    "logger",
+    "middleware",
+    "winston",
+    "express-winston"
+  ],
+  "bugs": {
+    "url": "https://github.com/THernandez03/express-logger/issues"
+  },
+  "homepage": "https://github.com/THernandez03/express-logger",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
