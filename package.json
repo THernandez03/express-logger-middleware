@@ -1,13 +1,13 @@
 {
-  "name": "express-logger",
-  "description": "Express logger middleware- Ready to be used Out-Of-The-Box",
+  "name": "express-logger-middleware",
+  "description": "Express logger middleware - Ready to be used Out-Of-The-Box",
   "version": "1.0.0",
   "author": "Tomás Hernández <tomas.hernandez03@gmail.com>",
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/THernandez03/express-logger.git"
+    "url": "https://github.com/THernandez03/express-logger-middleware.git"
   },
   "dependencies": {
     "express-winston": "^0.3.0",
@@ -22,9 +22,9 @@
     "express-winston"
   ],
   "bugs": {
-    "url": "https://github.com/THernandez03/express-logger/issues"
+    "url": "https://github.com/THernandez03/express-logger-middleware/issues"
   },
-  "homepage": "https://github.com/THernandez03/express-logger",
+  "homepage": "https://github.com/THernandez03/express-logger-middleware",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
